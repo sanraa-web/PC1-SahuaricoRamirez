@@ -3,20 +3,6 @@
 #include <string>
 #include "solution.hpp"
 
-int evalRPN(std::vector<std::string>& tokens);
-
-void test(std::vector<std::string> tokens, int expected) {
-    int result = evalRPN(tokens);
-    std::cout << "Tokens: [";
-    for (size_t i = 0; i < tokens.size(); ++i)
-        std::cout << tokens[i] << (i + 1 < tokens.size() ? ", " : "");
-    std::cout << "]\n";
-    std::cout << "Resultado: " << result
-              << " | Esperado: " << expected
-              << " | " << (result == expected ? "Paso" : "Fallo")
-              << "\n\n";
-}
-
 int main() {
     // Ejemplos del mismo problema
     // Ejem1: ((2 + 1) * 3) = 9
