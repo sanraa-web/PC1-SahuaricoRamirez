@@ -335,5 +335,5 @@ ingenuas O(n²).
 - **Sugerencia rechazada:** uso de `std::stack` directamente en `evalRPN` en lugar del ADT propio, porque el enunciado requería implementar el stack como ADT separado.
 
 **Uso para diseño (Claude):**
-- Se usó para dar formato correcto a tablas y secciones en archivos `.md`debido a mi inexperiencia en estos.
+- Se usó para dar formato correcto a tablas y secciones en archivos `.md`debido a nuestra inexperiencia en este.
   (optimization_report, profiling_report, coverage_report, README).
