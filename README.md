@@ -4,6 +4,8 @@
 - Ronaldo David Sahuarico Canaquiri
 - Santiago Alejandro Ramirez Aguilar
 
+link video: https://drive.google.com/file/d/1AzsRTwgeKdBMZ5vjZNrv_SOylnTrNrLs/view?usp=sharing
+
 ## Problema asignado
 **LeetCode 150 — Evaluate Reverse Polish Notation**
 https://leetcode.com/problems/evaluate-reverse-polish-notation/
